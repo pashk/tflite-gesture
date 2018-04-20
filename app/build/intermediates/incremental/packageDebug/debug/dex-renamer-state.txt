@@ -1,0 +1,4 @@
+#Thu Apr 19 17:46:43 PDT 2018
+base.0=/Users/pash/workspace/ai/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/18
+renamed.0=classes.dex
+file.0=/Users/pash/workspace/ai/tensorflow-for-poets-2/android/tflite/app/build/intermediates/transforms/dexMerger/debug/18/classes.dex
